@@ -1,0 +1,1 @@
+# calculadora-de-delatacao-termica
